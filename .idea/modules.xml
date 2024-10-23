@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Candidate/Candidate.iml" filepath="$PROJECT_DIR$/Candidate/Candidate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountLetterAndWord/CountLetterAndWord.iml" filepath="$PROJECT_DIR$/CountLetterAndWord/CountLetterAndWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expense/Expensex.iml" filepath="$PROJECT_DIR$/Expense/Expensex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB211.iml" filepath="$PROJECT_DIR$/LAB211.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD5/MD5.iml" filepath="$PROJECT_DIR$/MD5/MD5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student68/Student68.iml" filepath="$PROJECT_DIR$/Student68/Student68.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task/Task.iml" filepath="$PROJECT_DIR$/Task/Task.iml" />
+    </modules>
+  </component>
+</project>
